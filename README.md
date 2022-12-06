@@ -91,16 +91,16 @@ In this paper we describe an algorithm for planning for multiple robots with mul
 ## Usage and Results
 
 1. [Narrow Corridor Map](https://youtu.be/kaAiMFwgDOE)
-![Narrow Corridor Map](https://github.com/codeck313/priorityBasedMultiRobot/gifs/narrow.gif)
+![Narrow Corridor Map](https://github.com/codeck313/priorityBasedMultiRobot/blob/main/gifs/narrow.gif)
 
 2. [City Block Map](https://youtu.be/HLbFQVABfxw)
-![City Blocks Map](https://github.com/codeck313/priorityBasedMultiRobot/gifs/city_case.gif)
+![City Blocks Map](https://github.com/codeck313/priorityBasedMultiRobot/blob/main/gifs/city_case.gif)
 
 3.  Cross Road Map
-![Cross Road](https://github.com/codeck313/priorityBasedMultiRobot/gifs/plus_case.gif)
+![Cross Road](https://github.com/codeck313/priorityBasedMultiRobot/blob/main/gifs/plus_case.gif)
 
 4. General Case Map
-![General Case](https://github.com/codeck313/priorityBasedMultiRobot/gifs/general_case-1.gif)
+![General Case](https://github.com/codeck313/priorityBasedMultiRobot/blob/main/gifs/general_case.gif)
 
 5. [Square Park Map](https://youtu.be/mJgmVen-9D4)
 
